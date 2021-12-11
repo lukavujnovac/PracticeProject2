@@ -59,7 +59,7 @@ struct CustomShapesBootcamp: View {
         }
     }
 }
-
+    	
 struct CustomShapesBootcamp_Previews: PreviewProvider {
     static var previews: some View {
         CustomShapesBootcamp()
