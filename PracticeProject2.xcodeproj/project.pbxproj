@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F0866102767EC2100D62433 /* PreferenceKeyBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F08660F2767EC2100D62433 /* PreferenceKeyBootcamp.swift */; };
+		5F0866122767EF8800D62433 /* GeometryPreferenceKeyBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0866112767EF8800D62433 /* GeometryPreferenceKeyBootcamp.swift */; };
+		5F0866152767F1D100D62433 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F0866142767F1D100D62433 /* ScrollViewOffsetPreferenceKeyBootcamp.swift */; };
 		5F1F5E40274D89FF0031EA9A /* PracticeProject2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1F5E3F274D89FF0031EA9A /* PracticeProject2App.swift */; };
 		5F1F5E44274D8A010031EA9A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F1F5E43274D8A010031EA9A /* Assets.xcassets */; };
 		5F1F5E47274D8A010031EA9A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F1F5E46274D8A010031EA9A /* Preview Assets.xcassets */; };
@@ -22,6 +25,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5F08660F2767EC2100D62433 /* PreferenceKeyBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferenceKeyBootcamp.swift; sourceTree = "<group>"; };
+		5F0866112767EF8800D62433 /* GeometryPreferenceKeyBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryPreferenceKeyBootcamp.swift; sourceTree = "<group>"; };
+		5F0866142767F1D100D62433 /* ScrollViewOffsetPreferenceKeyBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewOffsetPreferenceKeyBootcamp.swift; sourceTree = "<group>"; };
 		5F1F5E3C274D89FF0031EA9A /* PracticeProject2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeProject2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F1F5E3F274D89FF0031EA9A /* PracticeProject2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeProject2App.swift; sourceTree = "<group>"; };
 		5F1F5E43274D8A010031EA9A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -48,6 +54,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5F0866132767EF8F00D62433 /* PreferenceKeysBootcamp */ = {
+			isa = PBXGroup;
+			children = (
+				5F08660F2767EC2100D62433 /* PreferenceKeyBootcamp.swift */,
+				5F0866112767EF8800D62433 /* GeometryPreferenceKeyBootcamp.swift */,
+				5F0866142767F1D100D62433 /* ScrollViewOffsetPreferenceKeyBootcamp.swift */,
+			);
+			path = PreferenceKeysBootcamp;
+			sourceTree = "<group>";
+		};
 		5F1F5E33274D89FF0031EA9A = {
 			isa = PBXGroup;
 			children = (
@@ -77,6 +93,7 @@
 				5F82D2FC27668415007D434F /* AnimatableDataBootcamp.swift */,
 				5F3907112767B7D500EAAD73 /* GenericsBootcamp.swift */,
 				5F3907152767C1CF00EAAD73 /* ViewBuilderBootcamp.swift */,
+				5F0866132767EF8F00D62433 /* PreferenceKeysBootcamp */,
 				5F1F5E43274D8A010031EA9A /* Assets.xcassets */,
 				5F1F5E45274D8A010031EA9A /* Preview Content */,
 			);
@@ -168,8 +185,11 @@
 				5F82D2FD27668415007D434F /* AnimatableDataBootcamp.swift in Sources */,
 				5F3907162767C1CF00EAAD73 /* ViewBuilderBootcamp.swift in Sources */,
 				5F3907122767B7D500EAAD73 /* GenericsBootcamp.swift in Sources */,
+				5F0866122767EF8800D62433 /* GeometryPreferenceKeyBootcamp.swift in Sources */,
 				5F3EB5DE2763CC6900A3720E /* MatchedGeometryEffectBootcamp.swift in Sources */,
 				5F3EB5E02763D22B00A3720E /* CustomShapesBootcamp.swift in Sources */,
+				5F0866102767EC2100D62433 /* PreferenceKeyBootcamp.swift in Sources */,
+				5F0866152767F1D100D62433 /* ScrollViewOffsetPreferenceKeyBootcamp.swift in Sources */,
 				5F5B02DA2765341E00ED1499 /* CustomCurvesBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
