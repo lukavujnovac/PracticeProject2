@@ -31,6 +31,7 @@
 		5FC813B5276A89510085D604 /* CustomNavView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC813B4276A89510085D604 /* CustomNavView.swift */; };
 		5FC813BA276A8AE50085D604 /* CustomNavLink.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC813B9276A8AE50085D604 /* CustomNavLink.swift */; };
 		5FC813BC276A8D8B0085D604 /* CustomNavBarPrefrenceKeys.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC813BB276A8D8B0085D604 /* CustomNavBarPrefrenceKeys.swift */; };
+		5FD6A4C4276BD90F0009F70E /* UIViewRepresentableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FD6A4C3276BD90F0009F70E /* UIViewRepresentableBootcamp.swift */; };
 		5FE389E1275028AE00F69FF0 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE389E0275028AE00F69FF0 /* ButtonStyleBootcamp.swift */; };
 		5FE389E3275034B000F69FF0 /* AnyTransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FE389E2275034B000F69FF0 /* AnyTransitionBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -61,6 +62,7 @@
 		5FC813B4276A89510085D604 /* CustomNavView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavView.swift; sourceTree = "<group>"; };
 		5FC813B9276A8AE50085D604 /* CustomNavLink.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavLink.swift; sourceTree = "<group>"; };
 		5FC813BB276A8D8B0085D604 /* CustomNavBarPrefrenceKeys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarPrefrenceKeys.swift; sourceTree = "<group>"; };
+		5FD6A4C3276BD90F0009F70E /* UIViewRepresentableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewRepresentableBootcamp.swift; sourceTree = "<group>"; };
 		5FE389E0275028AE00F69FF0 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
 		5FE389E2275034B000F69FF0 /* AnyTransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -118,6 +120,7 @@
 				5F0866132767EF8F00D62433 /* PreferenceKeysBootcamp */,
 				5F49B69A27690ADA000AFB94 /* CustomTabBar */,
 				5FC813AD276A83F60085D604 /* CustomNavBar */,
+				5FD6A4C3276BD90F0009F70E /* UIViewRepresentableBootcamp.swift */,
 				5F1F5E43274D8A010031EA9A /* Assets.xcassets */,
 				5F1F5E45274D8A010031EA9A /* Preview Content */,
 			);
@@ -230,6 +233,7 @@
 				5FC813AF276A84510085D604 /* AppNavBarView.swift in Sources */,
 				5F49B69C27690AF7000AFB94 /* AppTabBarView.swift in Sources */,
 				5FE389E1275028AE00F69FF0 /* ButtonStyleBootcamp.swift in Sources */,
+				5FD6A4C4276BD90F0009F70E /* UIViewRepresentableBootcamp.swift in Sources */,
 				5F1F5E4E274D8ABB0031EA9A /* ViewModifierBootcamp.swift in Sources */,
 				5FE389E3275034B000F69FF0 /* AnyTransitionBootcamp.swift in Sources */,
 				5F1F5E40274D89FF0031EA9A /* PracticeProject2App.swift in Sources */,
