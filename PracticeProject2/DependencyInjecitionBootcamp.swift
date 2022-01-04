@@ -104,7 +104,7 @@ struct DependencyInjecitionBootcamp: View {
 
 struct DependencyInjecitionBootcamp_Previews: PreviewProvider {
     
-    static let dataService = MockDataService() //ProductionDataService(url: URL(string: "https://jsonplaceholder.typicode.com/posts")!)
+    static let dataService = MockDataService(data: [PostModel(userId: 1, id: 1, title: "1234", body: "1234")]) //ProductionDataService(url: URL(string: "https://jsonplaceholder.typicode.com/posts")!)
     
     static var previews: some View {
         DependencyInjecitionBootcamp(dataService: dataService)
