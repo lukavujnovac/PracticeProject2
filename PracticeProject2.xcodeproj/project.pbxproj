@@ -29,6 +29,7 @@
 		5F5B295D277CDEB100CE2E15 /* UnitTestingBootcampViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5B295C277CDEB100CE2E15 /* UnitTestingBootcampViewModel.swift */; };
 		5F5B2965277CDFF900CE2E15 /* PracticeProject2_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5B2964277CDFF900CE2E15 /* PracticeProject2_Tests.swift */; };
 		5F5B296C277CE0A900CE2E15 /* UnitTestingBootcampViewModel_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5B296B277CE0A900CE2E15 /* UnitTestingBootcampViewModel_Tests.swift */; };
+		5F682B842788D374006C691C /* AdvancedCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F682B832788D374006C691C /* AdvancedCombineBootcamp.swift */; };
 		5F82D2FD27668415007D434F /* AnimatableDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F82D2FC27668415007D434F /* AnimatableDataBootcamp.swift */; };
 		5F9730F22772649400181BC9 /* DependencyInjecitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9730F12772649400181BC9 /* DependencyInjecitionBootcamp.swift */; };
 		5FC813AF276A84510085D604 /* AppNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FC813AE276A84510085D604 /* AppNavBarView.swift */; };
@@ -90,6 +91,7 @@
 		5F5B2962277CDFF900CE2E15 /* PracticeProject2_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeProject2_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5B2964277CDFF900CE2E15 /* PracticeProject2_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeProject2_Tests.swift; sourceTree = "<group>"; };
 		5F5B296B277CE0A900CE2E15 /* UnitTestingBootcampViewModel_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnitTestingBootcampViewModel_Tests.swift; sourceTree = "<group>"; };
+		5F682B832788D374006C691C /* AdvancedCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdvancedCombineBootcamp.swift; sourceTree = "<group>"; };
 		5F82D2FC27668415007D434F /* AnimatableDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatableDataBootcamp.swift; sourceTree = "<group>"; };
 		5F9730F12772649400181BC9 /* DependencyInjecitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DependencyInjecitionBootcamp.swift; sourceTree = "<group>"; };
 		5FC813AE276A84510085D604 /* AppNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppNavBarView.swift; sourceTree = "<group>"; };
@@ -184,6 +186,7 @@
 				5FD6A4C3276BD90F0009F70E /* UIViewRepresentableBootcamp.swift */,
 				5F2A239C276FD0A600682C34 /* ProtocolsBootcamp.swift */,
 				5F9730F12772649400181BC9 /* DependencyInjecitionBootcamp.swift */,
+				5F682B832788D374006C691C /* AdvancedCombineBootcamp.swift */,
 				5F5B2959277CDD3200CE2E15 /* UnitTestingBootcamp */,
 				5FF6BF182785DDF7006BA73C /* UITestingBootcamp */,
 				5F1F5E43274D8A010031EA9A /* Assets.xcassets */,
@@ -401,6 +404,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F682B842788D374006C691C /* AdvancedCombineBootcamp.swift in Sources */,
 				5FC813AF276A84510085D604 /* AppNavBarView.swift in Sources */,
 				5F49B69C27690AF7000AFB94 /* AppTabBarView.swift in Sources */,
 				5FF6BF1A2785DEBC006BA73C /* UITestingBootcampView.swift in Sources */,
